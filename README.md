@@ -94,7 +94,9 @@ I specialize in transforming complex data into **actionable insights** that driv
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/kumarsrbh1
+- 🔗 LinkedIn: https://www.linkedin.com/in/kumarsrbh/
+- 💻 GitHub: https://github.com/kumarsrbh1
+
 
 ---
 
