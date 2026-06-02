@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kumar Saurabh
 
-🚀 Assistant Manager @ EY (GDS) | Data Analytics & Modeling  
+🚀 Assistant Manager @ EY (GDS) | Data Analytics & Business Modeling  
 📍 Noida, India  
 
 ---
